@@ -31,6 +31,5 @@ app.MapControllers();
 
 app.MapCatalogoEndpoints();
 
-//app.MapCatalogoEndpoints();
 
 app.Run();
